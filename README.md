@@ -6,4 +6,7 @@
 
 ## Images of t-test performed
 ### For the Age :
-![For the Age](https://github.com/AboutmeAshu/Covid-19-Dataset-Analysis/master/t-test_for_old.PNG?raw=true)
+![For the Age](https://github.com/AboutmeAshu/Covid-19-Dataset-Analysis/blob/master/t-test_for_old.PNG?raw=true)
+
+### For the Gender
+![For the Age](https://github.com/AboutmeAshu/Covid-19-Dataset-Analysis/blob/master/t-test_for_MW.PNG?raw=true)
